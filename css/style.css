@@ -3,6 +3,9 @@
   padding: 0;
 }
 
+/* Row 1 css  */
+
+
 #row1 {
 
     background-color: #293948;
@@ -46,4 +49,73 @@ color: white;
 line-height: 30px;
 border-right: 2px solid #000;
 padding-right: 8px;
+}
+
+/* Row 2 css  */
+
+#row2
+{
+height: 80px;
+width: 100%;
+background-color: #fff;
+
+
+}
+
+.header-section
+{
+width: 90%;
+margin: 0 auto;
+}
+
+.logo {
+float: left;
+width: 25%;
+
+}
+
+.logo img{
+margin-top: 5px;
+}
+
+.menu{
+
+width: 65%;
+float: right;
+
+
+}
+
+.menu ul{
+list-style: none;
+
+}
+
+.menu ul li{
+
+    float: left;
+    line-height: 80px;
+    width: 106px;
+    text-align: center;
+    list-style: none;
+    
+
+}
+
+.menu ul li a{
+text-decoration: none;
+text-transform: uppercase;
+color: #293948;
+
+
+}
+.menu ul li i{
+
+border: 2px solid #000;
+height: 30px;
+width: 30px;
+border-radius: 100%;
+line-height: 30px;
+
+
 }
