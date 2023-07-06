@@ -77,6 +77,7 @@
 
 .menu ul {
   list-style: none;
+  margin-left: 250px;
 }
 
 .menu ul li {
@@ -98,4 +99,85 @@
   width: 30px;
   border-radius: 100%;
   line-height: 30px;
+}
+
+/* Row3 css start  */
+
+#row3 {
+    height: 600px;
+    width: 100%;
+  background-image: url(../images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: round;
+  position: relative;
+}
+
+.overlay3
+{
+height: 100%;
+width: 100%;
+background: rgba(0, 0, 0, .3);
+position: absolute;
+
+
+}
+
+
+
+.banner-section {
+text-align: center;
+color: #fff;
+position: absolute;
+width: 100%;
+margin: 0 auto;
+
+}
+.banner-content {
+
+
+    
+}
+.banner-content h1 {
+text-transform: uppercase;
+font-size: 50px;
+line-height: 70px;
+padding-top: 200px;
+
+}
+.banner-content p {
+
+    font: 80px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+
+}
+
+.banner-button {
+
+}
+.banner-button button {
+
+    padding: 10px 20px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    margin-top: 50px;
+    color: rgb(74, 69, 69);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.banner-button button:hover{
+background-color: transparent;
+border-color:rgb(74, 69, 69) ;
+color: white;
+transition: all 0.4s ease;
+border: 2px solid;
+
+
+
 }
