@@ -5,117 +5,97 @@
 
 /* Row 1 css  */
 
-
 #row1 {
-
-    background-color: #293948;
-    height: 30px;
-    width: 100%;
+  background-color: #293948;
+  height: 30px;
+  width: 100%;
 }
 
 .top-section {
-width: 90%;
-margin: 0 auto;
+  width: 90%;
+  margin: 0 auto;
 }
 .left-links {
-width: 60%;
-float: left;
-height: 100%;
+  width: 60%;
+  float: left;
+  height: 100%;
 }
 .left-links ul {
-
 }
 .left-links ul li {
-    float: left;
-    list-style: none;
-    margin-left: 20px;
-    line-height: 30px;
-
+  float: left;
+  list-style: none;
+  margin-left: 20px;
+  line-height: 30px;
 }
 .top-section ul li a {
-    color: white ;
-    text-decoration: none;
-
+  color: white;
+  text-decoration: none;
 }
 .social-links {
-    width: 30%;
-    float: right;
-    height: 100%;
-    text-align: right;
-    
+  width: 30%;
+  float: right;
+  height: 100%;
+  text-align: right;
 }
 .social-links i {
-color: white;
-line-height: 30px;
-border-right: 2px solid #000;
-padding-right: 8px;
+  color: white;
+  line-height: 30px;
+  border-right: 2px solid #000;
+  padding-right: 8px;
 }
 
 /* Row 2 css  */
 
-#row2
-{
-height: 80px;
-width: 100%;
-background-color: #fff;
-
-
+#row2 {
+  height: 80px;
+  width: 100%;
+  background-color: #fff;
 }
 
-.header-section
-{
-width: 90%;
-margin: 0 auto;
+.header-section {
+  width: 90%;
+  margin: 0 auto;
 }
 
 .logo {
-float: left;
-width: 25%;
-
+  float: left;
+  width: 25%;
 }
 
-.logo img{
-margin-top: 5px;
+.logo img {
+  margin-top: 5px;
+  margin-left: 30px;
+  height: 80px;
+  width: 80px;
 }
 
-.menu{
-
-width: 65%;
-float: right;
-
-
+.menu {
+  width: 65%;
+  float: right;
 }
 
-.menu ul{
-list-style: none;
-
+.menu ul {
+  list-style: none;
 }
 
-.menu ul li{
-
-    float: left;
-    line-height: 80px;
-    width: 106px;
-    text-align: center;
-    list-style: none;
-    
-
+.menu ul li {
+  float: left;
+  line-height: 80px;
+  width: 106px;
+  text-align: center;
+  list-style: none;
 }
 
-.menu ul li a{
-text-decoration: none;
-text-transform: uppercase;
-color: #293948;
-
-
+.menu ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #293948;
 }
-.menu ul li i{
-
-border: 2px solid #000;
-height: 30px;
-width: 30px;
-border-radius: 100%;
-line-height: 30px;
-
-
+.menu ul li i {
+  border: 2px solid #000;
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  line-height: 30px;
 }
