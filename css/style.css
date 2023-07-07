@@ -260,3 +260,96 @@ padding: 8px;
   border: none;
   border-radius:3px ;
 }
+
+
+
+/* Row4 css completed  */
+
+/* Row 5 css start  */
+
+#row5{
+height: 500px;
+width: 100%;
+border-color: #fff;
+
+}
+
+.offer-section{
+width: 90%;
+margin: 0 auto;
+
+
+
+}
+
+.offer-top
+{
+text-align: center;
+padding: 40px 0px;
+
+
+}
+.offer-top h2{
+text-transform: uppercase;
+text-align: justify;
+margin-top: 100px;
+margin-left: 37rem;
+
+
+}
+.offer-top p{
+text-align: center;
+text-align: justify;
+margin-left: 38rem;
+padding-top: 5px;
+
+
+
+}
+
+.offer-bottom{}
+.all-offer-items{
+
+  margin-right: 130px;
+  margin-top: 40px;
+}
+.offer-item{
+width: 220px;
+float: right;
+margin-left: 40px;
+border: 4px solid grey;
+border-radius: ;
+box-shadow: 1px 1px 1px black;
+padding: 5px;
+transition: 1s;
+
+
+}
+
+.offer-item:hover{
+transform: scale(1.2);
+
+
+}
+
+
+.offer-item img{
+
+width: 100%;
+height: 150px;
+cursor: pointer;
+
+
+}
+.offer-text{
+
+width: 80%;
+float: left;
+
+}
+.offer-text h3{}
+.offer-text h4{}
+.offer-icon{}
+.offer-icon i{}
+
+ 
