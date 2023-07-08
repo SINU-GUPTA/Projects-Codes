@@ -521,3 +521,58 @@ font-size: 50px;
  .holi-item p{}
 
 
+  /* <!-- row 7 css strucure  --> */
+
+#row7{
+
+height: 400px;
+widows: 100%;
+background-color: #f;
+
+
+}
+.happy-section{
+
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50px;
+
+}
+.happy-top{}
+.happy-top h1{
+  text-transform: uppercase;
+}
+.happy-top p{}
+.happy-bottom{
+
+padding-bottom: 40px;
+
+
+}
+.happy-item{
+width: 29%;
+float: left;
+margin-left: ;
+border: 2px solid skyblue;
+padding: 10px;
+transition: 1s;
+display: flex;
+
+
+}
+
+.happy-item:hover{
+  border-top: 2px solid black;
+
+
+
+
+}
+
+
+.happy-item h4{}
+.happy-item p{
+
+
+  text-align: justify;
+}
